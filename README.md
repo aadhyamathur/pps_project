@@ -8,12 +8,16 @@
 
 <img alt="output" src="assets/password.png" />
 
+```bash
+password: aadhya
+```
+
 ## Features 
 
   <table>
   <tr>
-  <th> Feature </th>
-  <th> Preview </th>
+  <th> <h3> Feature </h3> </th>
+  <th> <h3> Preview </h3> </th>
   <tr>
   <td> Main Menu </td>
   <td> <img alt="output" src="assets/main menu.png" /> </td>
@@ -40,7 +44,7 @@
   </tr>
   </table>
 
-### [Check out the code here](https://github.com/aadhyamathur/pps_project/blob/37a1cefc6052f9af3c76969dea22429bd76d0965/main.c)
+## [Check out the code here](https://github.com/aadhyamathur/pps_project/blob/37a1cefc6052f9af3c76969dea22429bd76d0965/main.c) 
 
 <h2>📬 Contact</h2>
 
