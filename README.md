@@ -40,8 +40,7 @@
   </tr>
   </table>
 
-### Checkout the code here 📝
-<https://github.com/aadhyamathur/pps_project/blob/37a1cefc6052f9af3c76969dea22429bd76d0965/main.c>
+[Check out the code here](https://github.com/aadhyamathur/pps_project/blob/37a1cefc6052f9af3c76969dea22429bd76d0965/main.c)
 
 <h2>📬 Contact</h2>
 
