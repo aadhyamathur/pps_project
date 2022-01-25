@@ -46,4 +46,4 @@
 
 If you want to contact me, you can reach me through below handle.
 
- <a href="https://www.linkedin.com/in/aadhya-mathur/"> <img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25"> Aadhya Mathur </img></a>
+ <a href="https://www.linkedin.com/in/aadhya-mathur/"> <img src="https://www.felberpr.com/wp-content/uploads/linkedin-logo.png" width="25">&nbsp; Aadhya Mathur </img></a>
