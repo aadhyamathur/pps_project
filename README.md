@@ -1,4 +1,4 @@
-<div align="centre">
+<div align="center">
 <h1> Programming For Problem Solving </h1>
 </div>
 
